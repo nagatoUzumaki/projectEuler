@@ -1,3 +1,5 @@
+#find sum of multiples of 3 or 5 which are less than or equal to N
+
 t = int(input())
 lst = []
 for a in range (t):
