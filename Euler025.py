@@ -1,3 +1,6 @@
+#find first term in the Fibonacci sequence to contain N digits
+
+
 import math
 t = int(input())
 lst = []
